@@ -1,3 +1,4 @@
 # 100DaysOfSwiftUI
 
-The projects I worked on for Paul Hudson's 100DaysOfSwiftUI course. 
+The projects that I worked on for Paul Hudson's 100DaysOfSwiftUI course. 
+Demonstration GIFs are in each project's folder.
